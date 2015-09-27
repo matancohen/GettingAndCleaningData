@@ -6,7 +6,7 @@ Download extract and place data in the same folder.
 Simply execute "run_analysis.R".  
 Note: relative path compared to "run_analysis.R" of the "activity_labels.txt" file should be "UCI HAR Dataset/activity_labels.txt".
 
-The scripts have been tested on windows 7.
+The script have been tested on windows 7.
 
 ## The exercise's description
 
